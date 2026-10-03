@@ -1,0 +1,41 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body{
+margin: 10px;
+}
+
+table{
+    border: 10px solid orange;
+    width: 100%;
+    border-spacing: 15px 20px;
+    background-color: black;
+    color: azure;
+}
+
+.header_table{
+    height: 100px;
+
+
+}
+
+td{
+    border: 1px solid azure;
+}
+
+.menu_1{
+    width: 300px;
+    height: 500px;
+
+}
+
+.menu_2{
+    width: 300px;
+}
+
+.footer_table{
+height: 50px;
+}
